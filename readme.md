@@ -8,7 +8,7 @@ As we know Software Engineers spend a lot of time on Laptops which affect their 
 ![Demo](./demo.gif)
 
 
-## Steps to Install
+## Stepss to Install
 1. Clone this repository.
 2. Navigate to chrome://extensions/
 3. Toggle the developer mode (Activate it).
